@@ -63,7 +63,7 @@ namespace Conversion
                         Console.Write(b[j] + " ");
                     }
                 }
-                Console.WriteLine();
+                Console.WriteLine("\n");
             }
             Console.WriteLine();
 
