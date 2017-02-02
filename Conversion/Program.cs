@@ -47,7 +47,7 @@ namespace Conversion
 
                 for (i = 0; i < array.Length; i++)
                 {
-                    if (array[i] == Convert.ToString(0)) Console.WriteLine();
+                    if (array[i] == Convert.ToString(0)) Console.Write("0"+" ");
                     else
                     {
                         int j;
